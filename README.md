@@ -7,7 +7,7 @@
 
 [HTML-Topic 3-Introduction about HTML](https://github.com/BlackEye-DucNA/Learn-frontend/blob/main/HTML-Topic%203-HTML%20Attributes.md)
 
-[HTTML-Topic 4-HTML Semantic Levels](https://github.com/BlackEye-DucNA/Learn-frontend/blob/main/HTTML-Topic%204-HTML%20Semantic%20Levels.md)
+[HTML-Topic 4-HTML Semantic Levels](https://github.com/BlackEye-DucNA/Learn-frontend/blob/main/HTTML-Topic%204-HTML%20Semantic%20Levels.md)
 
 ## 3. CSS
 ## 4. Javascript
