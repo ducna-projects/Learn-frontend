@@ -82,33 +82,22 @@ Mọi phần tử HTML đều có thể có thuộc tính.
 - Ngoài ra, một trang web sử dụng ngữ nghĩa sẽ trở nên giàu thông tin hơn, dễ thích ứng hơn và dễ tiếp cận hơn đối với những người sử dụng trình đọc màn hình để truy cập trang web.
 
 ### 7. HTML History (Lịch sử HTML)
-Since the early days of the World Wide Web, there have been many versions of HTML:
 Kể từ những ngày đầu của World Wide Web, đã có nhiều phiên bản HTML:
-Year	Version
-1989	Tim Berners-Lee invented www
-Tim Berners-Lee đã phát minh ra www
-1991	Tim Berners-Lee invented HTML
-Tim Berners-Lee đã phát minh ra HTML
-1993	Dave Raggett drafted HTML+
-Dave Raggett đã soạn thảo HTML+
-1995	HTML Working Group defined HTML 2.0
-Nhóm làm việc HTML đã xác định HTML 2.0
-1997	W3C Recommendation: HTML 3.2
-Khuyến nghị của W3C: HTML 3.2
-1999	W3C Recommendation: HTML 4.01
-Khuyến nghị của W3C: HTML 4.01
-2000	W3C Recommendation: XHTML 1.0
-Khuyến nghị của W3C: XHTML 1.0
-2008	WHATWG HTML5 First Public Draft
-WHATWG HTML5 Bản thảo công khai đầu tiên
-2012	WHATWG HTML5 Living Standard
-Tiêu chuẩn sống HTML5 WHATWG
-2014	W3C Recommendation: HTML5
-Khuyến nghị của W3C: HTML5
-2016	W3C Candidate Recommendation: HTML 5.1
-Khuyến nghị của ứng viên W3C: HTML 5.1
-2017	W3C Recommendation: HTML5.1 2nd Edition
-Khuyến nghị của W3C: HTML5.1 Phiên bản thứ 2
+
+| Year     |    Version    | 
+|----------|:-------------:|
+| 1989 |  Tim Berners-Lee đã phát minh ra www | 
+| 1991 |    Tim Berners-Lee đã phát minh ra HTML | 
+| 1993 | Dave Raggett đã soạn thảo HTML+ | 
+| 1995 | Nhóm làm việc HTML đã xác định HTML 2.0 |
+| 1997 | Khuyến nghị của W3C: HTML 3.2  |
+| 1999 | Khuyến nghị của W3C: HTML 4.01 |
+| 2000 | Khuyến nghị của W3C: XHTML 1.0 | 
+| 2008 | WHATWG HTML5 Bản thảo công khai đầu tiên | 
+| 2012 | Tiêu chuẩn sống HTML5 WHATWG | 
+| 2014 | Khuyến nghị của W3C: HTML5 |
+| 2016 | Khuyến nghị của ứng viên W3C: HTML 5.1 | 
+| 2017 | Khuyến nghị của W3C: HTML5.1 Phiên bản thứ 2 | 
 
 ### 8. Application of HTML (Ứng dụng, vận dụng của HTML)
 HTML được sử dụng cho nhiều mục đích. Các mục đích, ứng dụng được liệt kê như dưới đây:
