@@ -101,6 +101,7 @@ Kể từ những ngày đầu của World Wide Web, đã có nhiều phiên b�
 
 ### 8. Application of HTML (Ứng dụng, vận dụng của HTML)
 HTML được sử dụng cho nhiều mục đích. Các mục đích, ứng dụng được liệt kê như dưới đây:
+
 **Web Pages Development (Phát triển trang Web)**
 HTML được sử dụng nổi tiếng để tạo các trang web trên world wide web. Mỗi trang web đều chứa một tập hợp các thẻ HTML và siêu liên kết được sử dụng để kết nối các trang khác. Mọi trang trên internet đều được viết bằng HTML.
 
