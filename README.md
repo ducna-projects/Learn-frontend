@@ -1,6 +1,9 @@
-# Learn-frontend
-Repository for save everything about learning frontend.
-- Xác định lộ trình học frontend.
-- Học từng phần trong lộ trình theo từng bước, chiến lược rõ ràng.
-- Hiểu kiến thức cơ bản.
-- Luyện tập, thực hành nhiều.
+# Learn-frontend Roadmap
+## 1. Network, Internet, World Wide Web & Web Browsers
+## 2. HTML
+## 3. CSS
+## 4. Javascript
+## 5. Frontend-Create Frontend Templates
+## 6. Version Control Systems, Git, Github
+## 7. Frontend Server - NodeJs
+
