@@ -1,6 +1,7 @@
 # Learn Frontend 
 ## 1. Network, Internet, World Wide Web & Web Browsers
 ## 2. HTML
+### Danh sách các chủ đề kiến thức về HTML:
 [HTML-Topic 1-Introduction about HTML](https://github.com/BlackEye-DucNA/Learn-frontend/blob/main/HTML-Topic%201-Introduction%20about%20HTML.md)
 
 [HTML-Topic 2-HTML Fundamentals](https://github.com/BlackEye-DucNA/Learn-frontend/blob/main/HTML-Topic%202-HTML%20Fundamentals.md)
@@ -34,6 +35,8 @@
 [HTML-Topic 6-HTML Input Fields & Forms](https://github.com/ducna-projects/Learn-frontend/blob/main/HTML-Topic%206-HTML%20Input%20Fields%20%26%20Forms.md)
 
 [HTML-Topic 6-HTML Input Fields & Forms](https://github.com/ducna-projects/Learn-frontend/blob/main/HTML-Topic%206-HTML%20Input%20Fields%20%26%20Forms.md)
+
+### Danh sách các bài tập, thực hành với HTML:
 
 ## 3. CSS
 ## 4. Javascript
